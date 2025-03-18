@@ -1,0 +1,12 @@
+# File Permissions 
+
+Sudo Chown = change owner of file/directory
+Sudo Chgrp = change group
+
+Sudo chown new name for owner:new name for group filename.txt (changes owner and group at the same time -more efficient).
+
+# For dir/folders:
+
+Sudo chown -r  new name for owner:new name for group filename.txt 
+
+![alt text](image.png)
